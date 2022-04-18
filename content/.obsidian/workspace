@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "fddc29be5747ba83",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5c18719434154e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Concepção, nascimento e juventude.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "486a778ed4523839",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be2fa7799541869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ebbffa8008d3faf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76e17ebcee0541d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f5819cc63f6facd",
+    "type": "split",
+    "children": [
+      {
+        "id": "31feb7573d3e4df8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e1b1e97a32aa29f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepção, nascimento e juventude.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa5c18719434154e",
+  "lastOpenFiles": [
+    "Concepção, nascimento e juventude.md",
+    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md"
+  ]
+}
